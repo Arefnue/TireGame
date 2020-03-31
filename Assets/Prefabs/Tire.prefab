@@ -4207,7 +4207,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3c55fd05e028b74eb10a299fc08ebc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  torque: 50
+  torque: 5
   rb: {fileID: 4297905159078956286}
   leftButton: {fileID: 0}
   rightButton: {fileID: 0}

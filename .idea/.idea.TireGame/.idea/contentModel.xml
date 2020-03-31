@@ -75,10 +75,10 @@
         <e p="Scripts" t="Include">
           <e p="ButtonHandler.cs" t="Include" />
           <e p="PivotFollow.cs" t="Include" />
-          <e p="TireController.cs" t="Include" />
           <e p="TireControllerRb.cs" t="Include" />
           <e p="TireHit.cs" t="Include" />
           <e p="TireMove.cs" t="Include" />
+          <e p="UiManager.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Examples &amp; Extras" t="Include">
